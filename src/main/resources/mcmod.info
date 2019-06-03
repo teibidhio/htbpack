@@ -1,0 +1,16 @@
+[
+{
+  "modid": "htbpack",
+  "name": "Here There Be Modpack Customizations",
+  "description": "Adds tweaks, customziations and any other miscellany required for good operation of Here There Be modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/teibidh/htbpack",
+  "updateUrl": "",
+  "authorList": ["Teibidh"],
+  "credits": "The Forge team for making modding accessible, and all the real mod authors who've taken advantage of it so we can play in this sandbox!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
