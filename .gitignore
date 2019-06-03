@@ -1,0 +1,11 @@
+/.gradle
+/build
+/.settings
+/bin
+/build
+/eclipse
+/run
+.classpath
+.project
+forge_Client.launch
+forge_Server.launch
